@@ -1,7 +1,7 @@
 # roxor-arcade
 Automatically exported from code.google.com/p/roxor-arcade
 
-# From http://www.opensecuritytraining.info/Games.html
+## From http://www.opensecuritytraining.info/Games.html
 
 One of the hardest challenges when presenting training is to provide opportunities for students to continue to interact with the material. This is especially true when one training may build upon another, but they are separated by some amount of time. The probability of the student forgetting the training increases dramatically over time, unless they can continue interacting with the material.
 
